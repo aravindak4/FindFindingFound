@@ -1,0 +1,69 @@
+.pull {
+    margin-right: auto;
+}
+.bg-blue{
+    background-color: #1E90FF;
+}
+
+.bg-orange{
+    background-color: #eca200;
+}
+.white{
+    color: #fff;
+}
+
+.bg-img{
+    width: 100rem;
+    height: 30rem;
+}
+
+
+.bg-pic{
+    color: #fff;
+    background-image: url("./images/background.jpg");
+    height: 26rem;
+}
+
+.bg-pic h2{
+    background-color: orange;
+    color: #fff;
+    width: 20rem;
+    margin-left: auto;
+}
+
+.new{
+    color: #fff;
+    background-color: orangered;
+    width: 2.5rem;
+}
+
+.sale{
+    color: #fff;
+    background-color: #1E90FF;
+    width: 2.2rem;
+}
+.card-body h5{
+    color: orangered;
+}
+
+.blue{
+    color: slateblue;
+}
+
+.list-img{
+    height: 6rem;
+    width: 6rem;
+}
+
+.mm-16{
+    margin-left: -16rem;
+}
+
+.img-how{
+    width: 50rem;
+}
+
+.box{
+    display: flex;
+    justify-content: space-evenly;
+}
